@@ -1,16 +1,19 @@
 {
   "files": {
-    "main.css": "/franco-phan/static/css/main.073c9b0a.css",
-    "main.js": "/franco-phan/static/js/main.9c8ca31b.js",
+    "main.css": "/franco-phan/static/css/main.399ccae5.css",
+    "main.js": "/franco-phan/static/js/main.655a7e02.js",
     "static/js/787.c4e7f8f9.chunk.js": "/franco-phan/static/js/787.c4e7f8f9.chunk.js",
-    "static/media/logo.svg": "/franco-phan/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/profile pic.jpg": "/franco-phan/static/media/profile pic.96f715eb94eece7ff212.jpg",
+    "static/media/EastBay.jpg": "/franco-phan/static/media/EastBay.abb89de6f1d810aeb97a.jpg",
+    "static/media/Weather.jpg": "/franco-phan/static/media/Weather.405ea9b673f4265e55c2.jpg",
+    "static/media/FP.png": "/franco-phan/static/media/FP.855b1655e595a631b726.png",
     "index.html": "/franco-phan/index.html",
-    "main.073c9b0a.css.map": "/franco-phan/static/css/main.073c9b0a.css.map",
-    "main.9c8ca31b.js.map": "/franco-phan/static/js/main.9c8ca31b.js.map",
+    "main.399ccae5.css.map": "/franco-phan/static/css/main.399ccae5.css.map",
+    "main.655a7e02.js.map": "/franco-phan/static/js/main.655a7e02.js.map",
     "787.c4e7f8f9.chunk.js.map": "/franco-phan/static/js/787.c4e7f8f9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.9c8ca31b.js"
+    "static/css/main.399ccae5.css",
+    "static/js/main.655a7e02.js"
   ]
 }
