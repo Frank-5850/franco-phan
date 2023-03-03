@@ -9,6 +9,7 @@ import Work from "./Work/Work";
 function App() {
   return (
     <div className="App">
+      {/* testing */}
       <Nav />
       <Socials />
       <LandingPage />
