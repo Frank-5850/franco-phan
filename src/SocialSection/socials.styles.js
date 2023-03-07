@@ -7,6 +7,12 @@ export const SocialsWrapper = styled.div`
   left: 40px;
   right: auto;
   z-index: 10;
+  @media (min-width: 100px) and (max-width: 1024px) {
+    position: static;
+    display: flex;
+    width: 100%;
+    justify-content: space-around;
+  }
 `;
 
 export const SocialsContainer = styled.ul`
@@ -24,6 +30,13 @@ export const SocialsContainer = styled.ul`
     height: 300px;
     margin: 0px auto;
     background-color: white;
+    @media (min-width: 100px) and (max-width: 1024px) {
+      content: none;
+    }
+  }
+  @media (min-width: 100px) and (max-width: 1024px) {
+    display: flex;
+    flex-direction: row;
   }
 `;
 
