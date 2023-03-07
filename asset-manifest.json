@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/franco-phan/static/css/main.399ccae5.css",
-    "main.js": "/franco-phan/static/js/main.655a7e02.js",
+    "main.js": "/franco-phan/static/js/main.a5676aa3.js",
     "static/js/787.c4e7f8f9.chunk.js": "/franco-phan/static/js/787.c4e7f8f9.chunk.js",
     "static/media/profile pic.jpg": "/franco-phan/static/media/profile pic.96f715eb94eece7ff212.jpg",
     "static/media/EastBay.jpg": "/franco-phan/static/media/EastBay.abb89de6f1d810aeb97a.jpg",
@@ -9,11 +9,11 @@
     "static/media/FP.png": "/franco-phan/static/media/FP.855b1655e595a631b726.png",
     "index.html": "/franco-phan/index.html",
     "main.399ccae5.css.map": "/franco-phan/static/css/main.399ccae5.css.map",
-    "main.655a7e02.js.map": "/franco-phan/static/js/main.655a7e02.js.map",
+    "main.a5676aa3.js.map": "/franco-phan/static/js/main.a5676aa3.js.map",
     "787.c4e7f8f9.chunk.js.map": "/franco-phan/static/js/787.c4e7f8f9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.399ccae5.css",
-    "static/js/main.655a7e02.js"
+    "static/js/main.a5676aa3.js"
   ]
 }
